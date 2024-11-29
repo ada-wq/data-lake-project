@@ -1,0 +1,12 @@
+[
+    {"campaign_id": "CAMP1", "platform": "Facebook", "impressions": 5000, "clicks": 1200},
+    {"campaign_id": "CAMP2", "platform": "Google", "impressions": 7000, "clicks": 1500},
+    {"campaign_id": "CAMP3", "platform": "Instagram", "impressions": 4000, "clicks": 1000},
+    {"campaign_id": "CAMP4", "platform": "LinkedIn", "impressions": 3000, "clicks": 800},
+    {"campaign_id": "CAMP5", "platform": "Twitter", "impressions": 6000, "clicks": 1800},
+    {"campaign_id": "CAMP6", "platform": "Snapchat", "impressions": 2500, "clicks": 600},
+    {"campaign_id": "CAMP7", "platform": "Pinterest", "impressions": 3200, "clicks": 750},
+    {"campaign_id": "CAMP8", "platform": "TikTok", "impressions": 8000, "clicks": 2200},
+    {"campaign_id": "CAMP9", "platform": "YouTube", "impressions": 10000, "clicks": 2500},
+    {"campaign_id": "CAMP10", "platform": "Bing", "impressions": 2000, "clicks": 500}
+]
